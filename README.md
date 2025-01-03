@@ -4,16 +4,16 @@ Welcome to my GitHub profile! A passionate DevOps enthusiast who loves exploring
 
 ## About Me
 
-💼 Currently Working at: Canary's Automation Limited \
-🎓 Education: B.E. in Computer Science & Engineering from KLS VDIT HALIYAL \
-🌱 Current Focus: Enhancing skills in DevOps and Cloud Technologies \
+💼 Currently Working at: **Canary's Automation Limited** as a **DevOps Engineer** \
+🎓 Education: B.E. in Computer Science & Engineering from **KLS VDIT HALIYAL** \
+🌱 Current Focus: Enhancing skills in **DevOps** and **Cloud Technologies** \
 📫 Contact Me: sandeepdoddamani84@gmail.com 
 
 
 
 ## Get in Touch
 
-🌐 LinkedIn: www.linkedin.com/in/sandeep-u-doddamani-a0a61423bSandeep U Doddamani \
+🌐 LinkedIn: www.linkedin.com/in/sandeep-u-doddamani-a0a61423b \
 📧 Email: sandeepdoddamani84@gmail.com
 
 Thanks for visiting my profile!
